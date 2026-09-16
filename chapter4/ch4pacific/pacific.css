@@ -13,7 +13,7 @@ nav {
 }
 
 h1 {
-    margin-bottom: 0;
+    margin-bottom: 0; /* mb0 */
     background-color: #002171; /* bgc#002171 */
     color: #fff; /* c#fff */
 }
